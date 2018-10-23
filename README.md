@@ -12,4 +12,6 @@ Start WAMP server
 
 2) for Synchronize Token Pattern - Open your web browser and navigate the URL http://localhost/CSRF-Double_Submit_Cookie_Pattern/
 
+Username = ashi and Password = 1234
+
 To see more Details go to my blog Post https://medium.com/@ashanikulasinghe/ssd-assignment-ed312822d2eb
